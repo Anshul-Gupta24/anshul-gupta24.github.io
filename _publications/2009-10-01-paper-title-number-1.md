@@ -7,7 +7,6 @@ venue: 'BMVC'
 paperurl: 'http://anshul-gupta24.github.io/files/paper1.pdf'
 citation: 'Gupta, A. & Jayagopi, D. (2018). &quot;Unsupervised Speaker Cue Usage Detection in Public Speaking Videos.&quot; <i>Proceedings of the 29th British Machine Vision Conference Workshop, Vision for Interaction and Behaviour undErstanding</i>.'
 ---
-
 **Abstract**: A speaker’s bodily cues such as walking, arm movement and head movement play a
 big role in establishing engagement with the audience. Low level, pose keypoint features
 to capture these cues have been used in prior studies to characterise engagement and
