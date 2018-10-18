@@ -1,6 +1,6 @@
 ---
 title: "Detection of Cancerous Regions in Brain Histopathology Slides"
-excerpt: "Project with the National Institute of Mental Health and Neurosciences (NIMHANS) to build a deep learning based cancerous region detector<br/><img src='/images/nimhans.jpg'>"
+excerpt: "Project with the National Institute of Mental Health and Neurosciences (NIMHANS) to build a deep learning based cancerous region detector<br/><img src='/images/nimhans.png'>"
 collection: portfolio
 ---
 
