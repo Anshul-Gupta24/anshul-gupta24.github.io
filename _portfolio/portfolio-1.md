@@ -1,6 +1,6 @@
 ---
 title: "Expression and Second Language Representation in the Brain"
-excerpt: "I am working with the LEAP lab (Prof. Sriram Ganapathy) at IISc Bangalore to correlate changes in expression to second language representation in a person's brain<br/><img src='/images/500x300.png'>"
+excerpt: "I am working with the LEAP lab (Prof. Sriram Ganapathy) at IISc Bangalore to correlate changes in expression to second language representation in a person's brain<br/><img src='/images/iisc.jpg'>"
 collection: portfolio
 ---
 
