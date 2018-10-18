@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Expression and Second Language Representation in the Brain"
+excerpt: "I am working with the LEAP lab (Prof. Sriram Ganapathy) at IISc Bangalore to correlate changes in expression to second language representation in a person's brain<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a large project involving multiple modalities including EEG, audio and video data. We are trying to understand how a second language is represented in a person's brain. I am using computer vision, specifically analysis of changes in expression and micro expression, to observe changes in them before and after a person is taught a word in the new language.
