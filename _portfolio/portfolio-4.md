@@ -1,6 +1,6 @@
 ---
 title: "Neural Machine Translation"
-excerpt: "Machine translation system trained end to end using an encoder-decoder architecture<br/><img src='/images/nimhans.png'>"
+excerpt: "Machine translation system trained end to end using an encoder-decoder architecture<br/><img src='/images/nmt.png'>"
 collection: portfolio
 ---
 
