@@ -17,5 +17,5 @@ When not reading up on cool new projects, I can be found playing table-tennis, d
 <br/>
 
 **News:**
-* I have been awarded a fellowship under the All India Council for Technical Education (AICTE) PG Scholarship scheme.
+* I have been awarded a fellowship under the All India Council for Technical Education (AICTE) PG Scholarship scheme (2018-2019).
 * I will be joining IISc full time (starting Jan 2019) to work on my thesis
