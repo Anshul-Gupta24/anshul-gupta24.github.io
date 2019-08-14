@@ -17,6 +17,5 @@ I enjoy playing table-tennis, drawing comics and consuming pop culture.
 <br/>
 
 **News:**
-* I am now a Masters graduate! A big thanks to Prof. Dinesh and Prof. Sriram for their guidance.
 * I attended the South East Asian Machine Learning Summer School in Greater Jakarta, Indonesia (~15% accepted). **Awarded runner up for best poster presentation. **
-
+* I am now a Masters graduate! A big thanks to Prof. Dinesh and Prof. Sriram for their guidance.
