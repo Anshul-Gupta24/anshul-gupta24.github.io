@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year integrated masters (bachelors + masters) student at IIIT Bangalore studying computer science. I am interested in Machine Learning and Neuroscience and would like to use insights from each field to benefit the other. I interned at the RIKEN Brain Science Institute (now RIKEN Centre for Brain Science) in the summer of 2017, and am currently working with Prof. Sriram Ganapathy at the Indian Institute of Science as a project associate. I am also affiliated with the Multimodal Perception Lab (Prof. Dinesh Babu Jayagopi) at IIIT Bangalore.
+I am a Computer Vision engineer at Mercedes Benz Research and Development, Bangalore working on developing intelligent interiors to enhance user experience. Some projects we are working on include gesture recognition, head pose estimation, hand localization and classification. I recently graduated from the Integrated Masters (Bachelors + Masters) program at IIIT Bangalore. My thesis was on the topic of ‘Second Language Learning in Deep Semantic Models and Humans’ under the guidance of Prof. Dinesh Jayagopi from IIIT Bangalore and Prof. Sriram Ganapathy from IISc.
 
-I have primarily been working in the area of computer vision recently but have dabbled in all areas related to machine learning including NLP, deep learning, and reinforcement learning. I believe that we have only touched the tip of what this field offers and need new interdisciplinary approaches to achieve true Artificial General Intelligence. My internship at RIKEN sparked my curiosity in the way neuroscience and AI can interact, and I am currently trying to work on projects at the intersection of the two fields. 
+I am interested in building machines that think like humans. To achieve this objective I believe it is necessary to get insight from different fields. I have worked on Multimodal and interdisciplinary projects as a step in this direction. In the past I have also interned at the RIKEN Brain Science Institute (now RIKEN Centre for Brain Science) as part of their summer program.  
 
-When not reading up on cool new projects, I can be found playing table-tennis, drawing comics, or devouring pop culture.
+I enjoy playing table-tennis, drawing comics and consuming pop culture.
 
 <br/>
 
 **News:**
-* I have been awarded a fellowship under the All India Council for Technical Education (AICTE) PG Scholarship scheme (2018-2019).
-* I will be joining IISc full time (starting Jan 2019) to work on my thesis
+* I am now a Masters graduate! A big thanks to Prof. Dinesh and Prof. Sriram for their guidance.
+* I attended the South East Asian Machine Learning Summer School in Greater Jakarta, Indonesia (~15% accepted). **Awarded runner up for best poster presentation. **
+
