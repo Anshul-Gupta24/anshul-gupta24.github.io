@@ -19,3 +19,4 @@ I enjoy playing table-tennis, drawing comics and consuming pop culture.
 **News:**
 * I attended the South East Asian Machine Learning Summer School in Greater Jakarta, Indonesia (~15% accepted). __Awarded runner up for best poster presentation.__
 * I am now a Masters graduate! A big thanks to Prof. Dinesh and Prof. Sriram for their guidance.
+* Presented thesis work at RIKEN AIP Japan
