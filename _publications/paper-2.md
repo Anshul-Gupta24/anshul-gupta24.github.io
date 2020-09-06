@@ -18,7 +18,7 @@ human performance. We also present an analysis that contrasts the
 errors made by humans and machines in this task.'
 date: 2019-12-18
 venue: 'ASRU'
-citation: 'Praveen K.*, Gupta A.*, Soman A., Ganapathy S. (2019). &quot;Second Language Transfer Learning in Humans and Machines Using Image Supervision.&quot; <i>Proceedings of IEEE ASRU 2019.<\i> (* equal contribution)'
+citation: 'Praveen K.*, Gupta A.*, Soman A., Ganapathy S. (2019). &quot;Second Language Transfer Learning in Humans and Machines Using Image Supervision.&quot; <i>Proceedings of IEEE ASRU 2019.</i> (* equal contribution)'
 ---
 
 **Abstract**: In the task of language learning, humans exhibit remarkable ability
