@@ -32,5 +32,3 @@ used in future work to serve as a means of feedback to speakers, and to better u
 the underlying structure behind the results.
 
 [Download paper here](http://anshul-gupta24.github.io/files/paper1.pdf)
-
-Recommended citation: Gupta, A. & Jayagopi, D. (2018). "Unsupervised Speaker Cue Usage Detection in Public Speaking Videos"; <i>Proceedings of the 29th British Machine Vision Conference Workshop, Vision for Interaction and Behaviour undErstanding</i>.
