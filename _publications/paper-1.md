@@ -15,7 +15,6 @@ used in future work to serve as a means of feedback to speakers, and to better u
 the underlying structure behind the results.'
 date: 2018-09-06
 venue: 'BMVC'
-paperurl: 'http://anshul-gupta24.github.io/files/paper1.pdf'
 citation: 'Gupta, A. & Jayagopi, D. (2018). &quot;Unsupervised Speaker Cue Usage Detection in Public Speaking Videos.&quot; <i>Proceedings of the 29th British Machine Vision Conference Workshop, Vision for Interaction and Behaviour undErstanding</i>.'
 ---
 **Abstract**: A speaker’s bodily cues such as walking, arm movement and head movement play a
