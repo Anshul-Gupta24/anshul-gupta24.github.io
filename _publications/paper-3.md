@@ -17,7 +17,7 @@ input samples with a single exposure.
 '
 date: 2020-10-25
 venue: 'Interspeech'
-citation: 'Krishnamohan V., Soman A., <b>Gupta A.</b>, Ganapathy S. (2020). &quot;Audiovisual Correspondence Learning in Humans And Machines.&quot; <i>Accepted at Interspeech 2020</i>.'
+citation: 'Krishnamohan V., Soman A., <b>Gupta A.</b>, Ganapathy S. (2020). &quot;Audiovisual Correspondence Learning in Humans And Machines.&quot; <i>Proceedings of Interspeech 2020</i>.'
 ---
 **Abstract**: Audiovisual correspondence learning is the task of acquiring
 the association between images and its corresponding audio. In
