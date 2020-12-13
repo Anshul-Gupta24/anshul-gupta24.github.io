@@ -1,7 +1,7 @@
 ---
 title: "End-to-End Differentiable 6DoF Object Pose Estimation with Local and Global Constraints"
 collection: publications
-date: 2018-09-06
+date: 2020-12-11
 venue: 'NeurIPS 2020'
 citation: '<b>Gupta, A.</b>, Medhi, J., Chattopadhyay A. and Gupta V. (2020). &quot;End-to-End Differentiable 6DoF Object Pose Estimation with Local and Global Constraints.&quot; <i>Accepted at the DiffCVGP workshop at Neurips 2020</i>.'
 ---
