@@ -17,6 +17,7 @@ In my spare time I enjoy playing table-tennis, drawing comics and consuming pop 
 <br/>
 
 **News:**
+* 11.2020 Our paper on 'End-to-End Differentiable 6DoF Object Pose Estimation with Local and Global Constraints' was accepted at the DiffCVGP workshop at NeurIPS 2020
 * 07.2020 Our paper on 'Audiovisual Correspondence Learning in Humans And Machines' was accepted at Interspeech 2020
 * 07.2020 I attended the EEML summer school held in virtual Krakow
 * 01.2020 I placed in the top 20% of participants for the Kaggle Autonomous Driving challenge for 6DoF car pose estimation
