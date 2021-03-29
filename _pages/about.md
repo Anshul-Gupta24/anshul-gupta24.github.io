@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Idiap and EPFL under the supervision of Prof. Jean-Marc Odobez. Previously, I worked as a Computer Vision engineer at Mercedes-Benz Research and Development, Bangalore in the Intelligent Interior team. I obtained my Bachelors and Masters degree from IIIT Bangalore in in 2019. My Masters thesis was on the topic of ‘Second Language Learning in Deep Semantic Models and Humans’ under the guidance of Prof. Dinesh Jayagopi from IIIT Bangalore and Prof. Sriram Ganapathy from IISc.
+I am a PhD student at Idiap and EPFL under the supervision of Prof. Jean-Marc Odobez. Previously, I worked as a Computer Vision engineer at Mercedes-Benz Research and Development India, Bangalore in the Intelligent Interior team. I obtained my Bachelors and Masters degree from IIIT Bangalore in 2019. My Masters thesis was on the topic of ‘Second Language Learning in Deep Semantic Models and Humans’ under the guidance of Prof. Dinesh Jayagopi from IIIT Bangalore and Prof. Sriram Ganapathy from IISc.
 
 My research explores how perceptual inputs lead to conceptual representations that can be reasoned with. I have approached this problem using the tools of computer vision and multimodal machine learning. In the past I have also interned at the RIKEN Brain Science Institute (now RIKEN Centre for Brain Science) as part of their summer program.  
 
