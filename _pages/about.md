@@ -18,7 +18,7 @@ In my spare time I enjoy travelling, hiking and skiing.
 
 **News:**
 * __02.2023__ I visited the [STARS](https://www.inria.fr/en/stars) team at Inria for collaboration on data and models
-* __04.2022__ Our paper 'A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings' was accepted for the GAZE workshop at CVPR 2022
+* __04.2022__ Our paper titled 'A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings' was accepted for the GAZE workshop at CVPR 2022
 * __01.2022__ I successfully passed my candidacy exam at EPFL. Thanks to my jury: Prof. Jean-Marc Odobez, Prof. Alexandre Alahi, Prof. Denis Gilet 
 * __01.2021__ I started my PhD at Idiap and EPFL!
 
