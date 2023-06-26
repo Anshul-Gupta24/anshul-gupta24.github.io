@@ -21,6 +21,7 @@ In my spare time I enjoy travelling, hiking and skiing.
 * 01.2022 I successfully passed my candidacy exam at EPFL. Thanks to my jury: Prof. Jean-Marc Odobez, Prof. Alexandre Alahi, Prof. Denis Gilet 
 * 01.2021 I started my PhD at Idiap and EPFL!
 
+
 [comment]: # * 11.2020 Our paper on 'End-to-End Differentiable 6DoF Object Pose Estimation with Local and Global Constraints' was accepted at the DiffCVGP workshop at NeurIPS 2020
 
 [//]: # * 07.2020 Our paper on 'Audiovisual Correspondence Learning in Humans And Machines' was accepted at Interspeech 2020
