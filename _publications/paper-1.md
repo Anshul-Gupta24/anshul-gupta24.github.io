@@ -5,4 +5,4 @@ date: 2018-09-06
 venue: 'BMVC'
 ---
 
-[Paper](http://bmvc2018.org/contents/workshops/vibe2018/VIBE002.pdf) [Code](https://github.com/Anshul-Gupta24/Unsupervised-Speaker-Cue-Usage)
+[<span style="color:blue"> [Paper] text</span>](http://bmvc2018.org/contents/workshops/vibe2018/VIBE002.pdf) [<span style="color:blue"> [Code] text</span>](https://github.com/Anshul-Gupta24/Unsupervised-Speaker-Cue-Usage)
