@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Idiap and EPFL under the supervision of [Dr. Jean-Marc Odobez](https://www.idiap.ch/en/scientific-research/perception-and-activity-understanding). My research revolves aroud human-behaviour understanding using multimodal data, with an emphasis on gaze and gesture analysis.
+I am a PhD student at Idiap and EPFL under the supervision of [Dr. Jean-Marc Odobez](https://www.idiap.ch/en/scientific-research/perception-and-activity-understanding). My research revolves around human-behaviour understanding using multimodal data, with an emphasis on gaze and gesture analysis.
 
 Previously, I worked as a Computer Vision engineer at [Mercedes-Benz Research and Development India, Bangalore](https://www.mbrdi.co.in/) in the Intelligent Interior team. I obtained my Bachelors and Masters degree from [IIIT Bangalore](https://www.iiitb.ac.in/). My Masters thesis was on the topic of ‘Second Language Learning in Deep Semantic Models and Humans’ under the guidance of Prof. Dinesh Jayagopi from IIIT Bangalore and Prof. Sriram Ganapathy from [IISc](https://iisc.ac.in/). During my studies I also interned at the [RIKEN Brain Science Institute](https://cbs.riken.jp/en/) through their summer program.  
 
@@ -17,6 +17,8 @@ In my spare time I enjoy travelling, hiking and skiing.
 <br/>
 
 **News:**
+* __08.2023__ Our paper titled 'The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification' has been accepted for the WoCBU workshop at ICMI 2023
+* __07.2023__ Our paper titled 'ChildPlay: A New Benchmark for Understanding Children's Gaze Behaviour' has been accepted for ICCV 2023
 * __02.2023__ I visited the [STARS](https://www.inria.fr/en/stars) team at Inria for collaboration on data and models
 * __04.2022__ Our paper titled 'A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings' was accepted for the GAZE workshop at CVPR 2022
 * __01.2022__ I successfully passed my candidacy exam at EPFL. Thanks to my jury: Prof. Jean-Marc Odobez, Prof. Alexandre Alahi, Prof. Denis Gilet 
