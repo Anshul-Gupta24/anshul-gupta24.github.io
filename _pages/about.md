@@ -17,7 +17,6 @@ In my spare time I enjoy travelling, hiking and skiing.
 <br/>
 
 **News:**
-* __01.2024__ Participated in the AI4Autism project annual retreat. Thanks to our collaborators at the University of Geneva and SUPSI for taking part
 * __09.2023__ We presented a 3 minute overview of our research at EPFL's EDEE Department Scientific Day [slides](https://docs.google.com/presentation/d/1z2FDS9VBtOI2uCHrxipCIHfBiibSyy_GSD5yyT9PGPM/edit?usp=sharing)
 * __08.2023__ Our paper titled 'The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification' has been accepted for the WoCBU workshop at ICMI 2023
 * __07.2023__ Our paper titled 'ChildPlay: A New Benchmark for Understanding Children's Gaze Behaviour' has been accepted for ICCV 2023
