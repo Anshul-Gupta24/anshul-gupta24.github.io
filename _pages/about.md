@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Idiap and EPFL under the supervision of [Dr. Jean-Marc Odobez](https://www.idiap.ch/en/scientific-research/perception-and-activity-understanding). My research revolves around human-behaviour understanding using multimodal data, with an emphasis on gaze and gesture analysis.
+I am a PhD student at [Idiap](https://www.idiap.ch/en) and [EPFL](https://www.epfl.ch/en/) under the supervision of Dr. Jean-Marc Odobez. My research revolves around human-behaviour understanding using multimodal data, with an emphasis on gaze and gesture analysis.
 
 Previously, I worked as a Computer Vision engineer at [Mercedes-Benz Research and Development India, Bangalore](https://www.mbrdi.co.in/) in the Intelligent Interior team. I obtained my Bachelors and Masters degree from [IIIT Bangalore](https://www.iiitb.ac.in/). My Masters thesis was on the topic of ‘Second Language Learning in Deep Semantic Models and Humans’ under the guidance of Prof. Dinesh Jayagopi from IIIT Bangalore and Prof. Sriram Ganapathy from [IISc](https://iisc.ac.in/). During my studies I also interned at the [RIKEN Brain Science Institute](https://cbs.riken.jp/en/) through their summer program.  
 
