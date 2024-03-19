@@ -17,6 +17,8 @@ In my spare time I enjoy travelling, hiking and skiing.
 <br/>
 
 **News:**
+* __03.2024__ Our paper titled 'Sharingan: A Transformer Architecture for Multi-Person Gaze Following' has been accepted for CVPR 2024
+* __03.2024__ Our paper titled 'A Unified Model for Gaze Following and Social Gaze Prediction' has been accepted for FG 2024
 * __09.2023__ We presented a 3 minute overview of our research at EPFL's EDEE Department Scientific Day [[slides]](https://docs.google.com/presentation/d/1z2FDS9VBtOI2uCHrxipCIHfBiibSyy_GSD5yyT9PGPM/edit?usp=sharing)
 * __08.2023__ Our paper titled 'The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification' has been accepted for the WoCBU workshop at ICMI 2023
 * __07.2023__ Our paper titled 'ChildPlay: A New Benchmark for Understanding Children's Gaze Behaviour' has been accepted for ICCV 2023
