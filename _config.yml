@@ -84,7 +84,7 @@ author:
   bio              : "PhD Student at Idiap and EPFL"
   location         : "Switzerland"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=zBBCTG0AAAAJ"
+  googlescholar    : "zBBCTG0AAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -179,9 +179,9 @@ collections:
   # portfolio:
   #   output: false
   #   permalink: /:collection/:path/
-  # talks:
-  #   output: false
-  #   permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
