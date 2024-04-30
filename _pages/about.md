@@ -17,7 +17,7 @@ In my spare time I enjoy travelling, hiking and skiing.
 <br/>
 
 **News:**
-* __04.2024__ I was invited to speak at the LiRi/NCCR Lunchtime Talk at the University of Zurich [[slides]](https://docs.google.com/presentation/d/1TXCs4j0S74ftUyqkHpj5yz_LWX3wTQ6Y/edit?usp=sharing&ouid=116028021929448940764&rtpof=true&sd=true))
+* __04.2024__ I was invited to speak at the LiRi/NCCR Lunchtime Talk at the University of Zurich [[slides]](https://docs.google.com/presentation/d/1TXCs4j0S74ftUyqkHpj5yz_LWX3wTQ6Y/edit?usp=sharing&ouid=116028021929448940764&rtpof=true&sd=true)
 * __03.2024__ Our paper titled 'Sharingan: A Transformer Architecture for Multi-Person Gaze Following' has been accepted for CVPR 2024
 * __03.2024__ Our paper titled 'A Unified Model for Gaze Following and Social Gaze Prediction' has been accepted for FG 2024
 * __09.2023__ We presented a 3 minute overview of our research at EPFL's EDEE Department Scientific Day [[slides]](https://docs.google.com/presentation/d/1z2FDS9VBtOI2uCHrxipCIHfBiibSyy_GSD5yyT9PGPM/edit?usp=sharing)
