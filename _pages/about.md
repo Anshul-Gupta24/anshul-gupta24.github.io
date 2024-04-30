@@ -17,14 +17,15 @@ In my spare time I enjoy travelling, hiking and skiing.
 <br/>
 
 **News:**
+* __04.2024__ I was invited to speak at the LiRi/NCCR Lunchtime Talk at the University of Zurich [[slides]](https://docs.google.com/presentation/d/1TXCs4j0S74ftUyqkHpj5yz_LWX3wTQ6Y/edit?usp=sharing&ouid=116028021929448940764&rtpof=true&sd=true))
 * __03.2024__ Our paper titled 'Sharingan: A Transformer Architecture for Multi-Person Gaze Following' has been accepted for CVPR 2024
 * __03.2024__ Our paper titled 'A Unified Model for Gaze Following and Social Gaze Prediction' has been accepted for FG 2024
 * __09.2023__ We presented a 3 minute overview of our research at EPFL's EDEE Department Scientific Day [[slides]](https://docs.google.com/presentation/d/1z2FDS9VBtOI2uCHrxipCIHfBiibSyy_GSD5yyT9PGPM/edit?usp=sharing)
 * __08.2023__ Our paper titled 'The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification' has been accepted for the WoCBU workshop at ICMI 2023
 * __07.2023__ Our paper titled 'ChildPlay: A New Benchmark for Understanding Children's Gaze Behaviour' has been accepted for ICCV 2023
 * __02.2023__ I visited the [STARS](https://www.inria.fr/en/stars) team at Inria for collaboration on data and models
-* __04.2022__ Our paper titled 'A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings' was accepted for the GAZE workshop at CVPR 2022
-* __01.2022__ I successfully passed my candidacy exam at EPFL. Thanks to my jury: Prof. Jean-Marc Odobez, Prof. Alexandre Alahi, Prof. Denis Gilet 
+<!-- * __04.2022__ Our paper titled 'A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings' was accepted for the GAZE workshop at CVPR 2022
+<!-- * __01.2022__ I successfully passed my candidacy exam at EPFL. Thanks to my jury: Prof. Jean-Marc Odobez, Prof. Alexandre Alahi, Prof. Denis Gilet 
 
 <!-- * 11.2020 Our paper on 'End-to-End Differentiable 6DoF Object Pose Estimation with Local and Global Constraints' was accepted at the DiffCVGP workshop at NeurIPS 2020 -->
 <!-- * 07.2020 Our paper on 'Audiovisual Correspondence Learning in Humans And Machines' was accepted at Interspeech 2020 -->
