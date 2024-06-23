@@ -17,6 +17,7 @@ In my spare time I enjoy travelling, hiking and skiing.
 <br/>
 
 **News:**
+* __06.2024__ I started an internship at Meta Reality Labs, Redmond to work on egocentric video understanding
 * __06.2024__ We won best paper at the GAZE workshop at CVPR 2024!
 * __05.2024__ We won best student paper at FG 2024!
 * __04.2024__ Our paper titled 'Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following' has been accepted at the GAZE workshop at CVPR 2024 
