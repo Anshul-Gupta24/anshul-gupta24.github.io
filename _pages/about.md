@@ -20,7 +20,7 @@ In my spare time I enjoy travelling, hiking and skiing.
 * __06.2024__ I started an internship at Meta Reality Labs, Redmond to work on egocentric video understanding
 * __06.2024__ We won best paper at the GAZE workshop at CVPR 2024!
 * __05.2024__ We won best student paper at FG 2024!
-* __04.2024__ Our paper titled 'Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following' has been accepted at the GAZE workshop at CVPR 2024 
+* __04.2024__ Our paper titled 'Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following' has been accepted for the GAZE workshop at CVPR 2024 
 * __04.2024__ I was invited to speak at the LiRi/NCCR Lunchtime Talk at the University of Zurich [[slides]](https://docs.google.com/presentation/d/1TXCs4j0S74ftUyqkHpj5yz_LWX3wTQ6Y/edit?usp=sharing&ouid=116028021929448940764&rtpof=true&sd=true)
 * __03.2024__ Our paper titled 'Sharingan: A Transformer Architecture for Multi-Person Gaze Following' has been accepted for CVPR 2024
 * __03.2024__ Our paper titled 'A Unified Model for Gaze Following and Social Gaze Prediction' has been accepted for FG 2024
