@@ -17,6 +17,7 @@ In my spare time I enjoy travelling, hiking and skiing.
 <br/>
 
 **News:**
+* __01.2025__ I presented an overview of my research at IIIT Bangalore and IISc Bangalore [[slides]](https://docs.google.com/presentation/d/1buEHaiawJBUszb9ve4e-hHcUn3UHnZ8c/edit?usp=sharing&ouid=116028021929448940764&rtpof=true&sd=true)
 * __09.2024__ We have 2 papers accepted at NeurIPS 2024! See you in Vancouver
 * __06.2024__ I started an internship at Meta Reality Labs, Redmond to work on egocentric video understanding
 * __06.2024__ We won best paper at the GAZE workshop at CVPR 2024!
