@@ -14,6 +14,8 @@ Previously, I worked as a Computer Vision engineer at [Mercedes-Benz Research an
 
 In my spare time I enjoy travelling, hiking and skiing.
 
+<span style="color:red"> I am graduating this summer and am on the industry job market. Please do not hesistate to get in touch for matching roles. </span>
+
 <br/>
 
 **News:**
