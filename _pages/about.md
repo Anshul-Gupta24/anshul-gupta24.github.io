@@ -20,6 +20,7 @@ In my spare time I enjoy travelling, hiking and skiing.
 
 **News:**
 * __06.2025__ I successfully defended my thesis and was nominated for the department distinction award! Thanks to my committee members Dr. Jean-Marc Odobez, Prof. Andreas Bulling, Dr. Sean Andrist, Dr. Xi Wang and Prof. Pascal Frossard
+* __03.2025__ We are organizing the [Artificial Social Intelligence workshop](https://sites.google.com/andrew.cmu.edu/social-ai-iccv-25/) at ICCV 2025, please check it out!
 * __01.2025__ I presented an overview of my research at IIIT Bangalore and IISc Bangalore [[slides]](https://docs.google.com/presentation/d/1buEHaiawJBUszb9ve4e-hHcUn3UHnZ8c/edit?usp=sharing&ouid=116028021929448940764&rtpof=true&sd=true)
 * __09.2024__ We have 2 papers accepted at NeurIPS 2024! See you in Vancouver
 * __06.2024__ I started an internship at Meta Reality Labs, Redmond to work on egocentric video understanding
