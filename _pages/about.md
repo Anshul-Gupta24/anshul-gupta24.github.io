@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [Idiap](https://www.idiap.ch/en) and [EPFL](https://www.epfl.ch/en/) under the supervision of Dr. Jean-Marc Odobez. My research revolves around human-behaviour understanding using multimodal data, with an emphasis on analyzing gaze and social interactions. During my PhD, I have had the opportunity to intern at [Meta Reality Labs Research](https://about.meta.com/realitylabs/) in Redmond, where I collaborated with Calvin Murdock, Yijun Qian, Ruohan Gao, Ishwarya Ananthabotla and Vamsi Krishna Ithapu among others.
+I am a Research Scientist at [Toyota Research Insitite](https://www.tri.global/), where I work on computer vision and multimodal approaches for driver-AI teaming. We work on novel approaches that understand human behaviour, and accordingly provide interventions for improving driver safety.
 
-Previously, I worked as a Computer Vision engineer at [Mercedes-Benz Research and Development India, Bangalore](https://www.mbrdi.co.in/) in the Intelligent Interior team, where I focused on human pose estimation and gesture tracking. I obtained both my Bachelors and Masters degrees from [IIIT Bangalore](https://www.iiitb.ac.in/). My Master’s thesis, conducted under the guidance of Prof. Dinesh Jayagopi (IIIT Bangalore) and Prof. Sriram Ganapathy ([IISc](https://iisc.ac.in/)), explored the comparison between second language acquisition in humans and machine learning models through the task of audio-visual retrieval. During my studies I also interned at the [RIKEN Brain Science Institute](https://cbs.riken.jp/en/) through their summer program.  
+Previously, I was a PhD student at [Idiap](https://www.idiap.ch/en) and [EPFL](https://www.epfl.ch/en/) under the supervision of Dr. Jean-Marc Odobez. My research revolved around human-behaviour understanding using computer vision and multimodal data, with an emphasis on analyzing gaze and social interactions. During my PhD, I have had the opportunity to intern at [Meta Reality Labs Research](https://about.meta.com/realitylabs/) in Redmond, where I collaborated with Calvin Murdock, Yijun Qian, Ruohan Gao, Ishwarya Ananthabotla and Vamsi Krishna Ithapu among others.
+
+Before that, I worked as a Computer Vision engineer at [Mercedes-Benz Research and Development India, Bangalore](https://www.mbrdi.co.in/) in the Intelligent Interior team, where I focused on human pose estimation and gesture tracking. I obtained both my Bachelors and Masters degrees from [IIIT Bangalore](https://www.iiitb.ac.in/). My Master’s thesis, conducted under the guidance of Prof. Dinesh Jayagopi (IIIT Bangalore) and Prof. Sriram Ganapathy ([IISc](https://iisc.ac.in/)), explored the comparison between second language acquisition in humans and machine learning models through the task of audio-visual retrieval. During my studies I also interned at the [RIKEN Brain Science Institute](https://cbs.riken.jp/en/) through their summer program.  
 
 In my spare time I enjoy travelling, hiking and skiing.
-
-<span style="color:red"> I am graduating this summer and am on the industry job market. Please do not hesistate to get in touch for matching roles. </span>
 
 <br/>
 
 **News:**
-* __06.2025__ I successfully defended my thesis and was nominated for the department distinction award! Thanks to my committee members Dr. Jean-Marc Odobez, Prof. Andreas Bulling, Dr. Sean Andrist, Dr. Xi Wang and Prof. Pascal Frossard
+* __03.2026__ I started work as a Research Scientist at Toyota Research Institute
+* __11.2025__ I won the EPFL EDEE Distinction Award! Associated press articles ([EPFL](https://actu.epfl.ch/news/2025-edee-thesis-awards-distinctions-2/), [Idiap](https://www.idiap.ch/en/allnews/anshul-gupta-awarded-epfl-phd-prize))
+* __06.2025__ I successfully defended my thesis and was nominated for the EPFL EDEE distinction award! Thanks to my committee members Dr. Jean-Marc Odobez, Prof. Andreas Bulling, Dr. Sean Andrist, Dr. Xi Wang and Prof. Pascal Frossard
 * __03.2025__ We are organizing the [Artificial Social Intelligence workshop](https://sites.google.com/andrew.cmu.edu/social-ai-iccv-25/) at ICCV 2025, please check it out!
 * __01.2025__ I presented an overview of my research at IIIT Bangalore and IISc Bangalore [[slides]](https://docs.google.com/presentation/d/1buEHaiawJBUszb9ve4e-hHcUn3UHnZ8c/edit?usp=sharing&ouid=116028021929448940764&rtpof=true&sd=true)
 * __09.2024__ We have 2 papers accepted at NeurIPS 2024! See you in Vancouver
