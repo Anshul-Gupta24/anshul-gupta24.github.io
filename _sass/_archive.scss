@@ -14,10 +14,6 @@
     @include prefix(0.5 of 12);
   }
 
-  a {
-    color: inherit;
-    text-decoration: none;
-  }
 }
 
 .archive__subtitle {
@@ -35,6 +31,11 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
 
   a + a {
     opacity: 0.5;
