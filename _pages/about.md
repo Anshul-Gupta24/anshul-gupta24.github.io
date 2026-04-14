@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at [Toyota Research Insitite](https://www.tri.global/), where I work on computer vision and multimodal approaches for driver-AI teaming. Our work focuses on developing novel methods to understand human behavior and provide interventions that improve driver safety.
+I am a Research Scientist at [Toyota Research Institute](https://www.tri.global/), where I work on computer vision and multimodal approaches for driver-AI teaming. Our work focuses on developing novel methods to understand human behavior and provide interventions that improve driver safety.
 
 Previously, I was a PhD student at [Idiap](https://www.idiap.ch/en) and [EPFL](https://www.epfl.ch/en/) under the supervision of Dr. Jean-Marc Odobez. My research revolved around human-behaviour understanding using computer vision and multimodal data, with an emphasis on analyzing gaze and social interactions. During my PhD, I had the opportunity to intern at [Meta Reality Labs Research](https://about.meta.com/realitylabs/) in Redmond, where I collaborated with Calvin Murdock, Yijun Qian, Ruohan Gao, Ishwarya Ananthabotla and Vamsi Krishna Ithapu among others.
 
