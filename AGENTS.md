@@ -1,0 +1,1 @@
+Always ask for approval before executing any actions.

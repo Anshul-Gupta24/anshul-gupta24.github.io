@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anshul Gupta"
 title_separator          : "-"
 name                     : &name "Anshul Gupta"
-description              : &description "PhD Student at Idiap and EPFL"
+description              : &description "Research Scientist at Toyota Research Institute"
 url                      : https://anshul-gupta24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anshul-gupta24/anshul-gupta24.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Anshul Gupta"
   avatar           : "profile.jpeg"
-  bio              : "PhD Student at Idiap and EPFL"
-  location         : "Switzerland"
+  bio              : "Research Scientist at Toyota Research Institute"
+  location         : "USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zBBCTG0AAAAJ&hl=en"
   email            : anshul.gupta@idiap.ch
