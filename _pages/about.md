@@ -22,8 +22,8 @@ In my spare time I enjoy travelling, hiking and skiing.
 <div class="news-scroll" aria-label="Recent news">
   <ul class="news-scroll__list">
     <li><strong>03.2026</strong> I started work as a Research Scientist at Toyota Research Institute</li>
-    <li><strong>11.2025</strong> I won the EPFL EDEE Distinction Award! Associated press articles (<a href="https://actu.epfl.ch/news/2025-edee-thesis-awards-distinctions-2/">EPFL</a>, <a href="https://www.idiap.ch/en/allnews/anshul-gupta-awarded-epfl-phd-prize">Idiap</a>)</li>
-    <li><strong>06.2025</strong> I successfully defended my thesis and was nominated for the EPFL EDEE distinction award! Thanks to my committee members Dr. Jean-Marc Odobez, Prof. Andreas Bulling, Dr. Sean Andrist, Dr. Xi Wang and Prof. Pascal Frossard</li>
+    <li><strong>11.2025</strong> I won the EPFL EDEE Distinction Award for my thesis! Associated press articles (<a href="https://actu.epfl.ch/news/2025-edee-thesis-awards-distinctions-2/">EPFL</a>, <a href="https://www.idiap.ch/en/allnews/anshul-gupta-awarded-epfl-phd-prize">Idiap</a>)</li>
+    <li><strong>06.2025</strong> I successfully defended my thesis! Thank you to my committee members Dr. Jean-Marc Odobez, Prof. Andreas Bulling, Dr. Sean Andrist, Dr. Xi Wang and Prof. Pascal Frossard</li>
     <li><strong>03.2025</strong> We are organizing the <a href="https://sites.google.com/andrew.cmu.edu/social-ai-iccv-25/">Artificial Social Intelligence workshop</a> at ICCV 2025, please check it out!</li>
     <li><strong>01.2025</strong> I presented an overview of my research at IIIT Bangalore and IISc Bangalore <a href="https://docs.google.com/presentation/d/1buEHaiawJBUszb9ve4e-hHcUn3UHnZ8c/edit?usp=sharing&amp;ouid=116028021929448940764&amp;rtpof=true&amp;sd=true">[slides]</a></li>
     <li><strong>09.2024</strong> We have 2 papers accepted at NeurIPS 2024! See you in Vancouver</li>
