@@ -60,6 +60,20 @@
   }
 }
 
+.archive__item-excerpt a,
+.archive__item > p:not(.page__meta):not(.page__date) a {
+  color: $link-color;
+
+  &:visited {
+    color: $link-color-visited;
+  }
+
+  &:hover {
+    color: $link-color-hover;
+    text-decoration: underline;
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
