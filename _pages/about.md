@@ -21,6 +21,7 @@ In my spare time I enjoy travelling, hiking and skiing.
 **News:**
 <div class="news-scroll" aria-label="Recent news">
   <ul class="news-scroll__list">
+    <li><strong>06.2026</strong> Our work titled "Learning Ego-Exo Visual Representations for Conversational Gaze Estimation" won best presentation award at the GAZE workshop at CVPR 2026! <a href="https://drive.google.com/file/d/1ndjb-SanyCjsx8e3SyOd9tsXnqOQRieK/view?usp=sharing">[slides]</a></li>
     <li><strong>03.2026</strong> I started work as a Research Scientist at Toyota Research Institute</li>
     <li><strong>11.2025</strong> I won the EPFL EDEE Distinction Award for my thesis! Associated press articles (<a href="https://actu.epfl.ch/news/2025-edee-thesis-awards-distinctions-2/">EPFL</a>, <a href="https://www.idiap.ch/en/allnews/anshul-gupta-awarded-epfl-phd-prize">Idiap</a>)</li>
     <li><strong>06.2025</strong> I successfully defended my thesis! Thank you to my committee members Dr. Jean-Marc Odobez, Prof. Andreas Bulling, Dr. Sean Andrist, Dr. Xi Wang and Prof. Pascal Frossard</li>
